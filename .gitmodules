@@ -1,0 +1,3 @@
+[submodule "deps/gcsi"]
+	path = deps/gcsi
+	url = ../gcsi.git
